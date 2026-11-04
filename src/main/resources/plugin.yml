@@ -1,0 +1,8 @@
+name: SpiderManPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  spiderman:
+    description: Toggle Spider-Man abilities.
+    usage: /spiderman
